@@ -33,5 +33,7 @@ A **Movie Landing Page** built using **HTML, CSS, and JavaScript**, showcasing a
 git clone https://github.com/SSamoel/LeonHtmlCSSTemplate.git
 ```
 2.Open index.html in your favorite browser.
+`
 3.Enjoy browsing the movies!
+
 
