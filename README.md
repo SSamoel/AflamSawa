@@ -23,8 +23,7 @@ A **Movie Landing Page** built using **HTML, CSS, and JavaScript**, showcasing a
 ## 📸 Screenshots
 
 | Landing Page |
-|-------------|-----------------------|
-| ![Landing Page](./screenshoots/landingPage.jpg) 
+![Landing Page](./screenshoots/landingPage.jpg) 
 
 
 ## 🚀 How to Run
@@ -32,8 +31,7 @@ A **Movie Landing Page** built using **HTML, CSS, and JavaScript**, showcasing a
 1. Clone the repository:
 ```bash
 git clone https://github.com/SSamoel/LeonHtmlCSSTemplate.git
-
-2ز
-
-
+```
+2.Open index.html in your favorite browser.
+3.Enjoy browsing the movies!
 
