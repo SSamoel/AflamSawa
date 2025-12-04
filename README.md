@@ -22,9 +22,9 @@ A **Movie Landing Page** built using **HTML, CSS, and JavaScript**, showcasing a
 
 ## 📸 Screenshots
 
-| Landing Page | Latest Movies Carousel |
+| Landing Page |
 |-------------|-----------------------|
-| ![Landing Page](./screenshots/landingPage.jpg) 
+| ![Landing Page](./screenshoots/landingPage.jpg) 
 
 
 ## 🚀 How to Run
@@ -34,5 +34,6 @@ A **Movie Landing Page** built using **HTML, CSS, and JavaScript**, showcasing a
 git clone https://github.com/SSamoel/LeonHtmlCSSTemplate.git
 
 2ز
+
 
 
